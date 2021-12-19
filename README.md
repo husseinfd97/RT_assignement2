@@ -2,12 +2,15 @@
 S5165612
 
 # Description
-This main idea from this project to to make the robot follow the track without crashing using publisher and subscriber and control the speed using servies.
+This main idea from this project to to make the robot follow the track 
+without crashing using publisher and subscriber and control the speed 
+using servies.
+
 
 # Installing
-
-$catkin_make
-
+```
+catkin_make
+```
  # Running
  ```
  roscore &
@@ -15,3 +18,5 @@ $catkin_make
  rosrun assignment2 controller_node
  rosrun my_srv client_node
  ```
+ 
+ 
