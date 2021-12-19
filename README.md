@@ -31,5 +31,9 @@ catkin_make
 ![CamScanner 12-19-2021 17 20_2](https://user-images.githubusercontent.com/94136236/146683369-1f9ef9ca-7bf9-419f-b421-50b458041aee.jpg)
 ![CamScanner 12-19-2021 17 20_3](https://user-images.githubusercontent.com/94136236/146683372-68864ea8-f737-4688-900a-e516a3f80b0b.jpg)
 
+# Possible improvements 
+- The algorithm can be improved by making the robot detects the longest distance in specific range and move forward it. 
+- Using P control to make the robot slower in curves and faster in the straight ways , this will make the robot work at any velocity.
+
  
  
